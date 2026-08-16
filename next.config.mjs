@@ -1,12 +1,12 @@
-import { ImageError } from 'next/dist/server/image-optimizer';
+  import { ImageError } from 'next/dist/server/image-optimizer';
 
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  reactStrictMode: true,
-  output: "export",
-  images: {
-    formats: ["image/avif", "image/webp","image/png", "image/jpg"],
-  },
-};
+  /** @type {import('next').NextConfig} */
+  const nextConfig = {
+    reactStrictMode: true,
+    output: "export",
+    images: {
+      unoptimized: true,
+    },
+  };
 
-export default nextConfig;
+  export default nextConfig;

@@ -115,7 +115,7 @@ export default function Hero() {
         <div className="relative mx-auto w-full max-w-sm pb-8 animate-fade-up [animation-delay:120ms] opacity-0 [animation-fill-mode:forwards] lg:mx-0 lg:ml-auto lg:max-w-md">
           <div className="overflow-hidden rounded-2xl border border-white/10 shadow-card-dark">
             <Image
-              src="/images/maneesha.jpg"
+              src="/Portfolio/images/maneesha.jpg"
               alt="Portrait of Maneesha Akash"
               width={520}
               height={640}

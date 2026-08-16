@@ -209,7 +209,7 @@ export const projects: Project[] = [
     categories: ["ai", "saas"],
     tags: ["AI", "SaaS"],
     featured: true,
-    image: "/images/projects/mailpilot.png",
+    image: "/Portfolio/images/projects/mailpilot.png",
   },
   {
     slug: "proposal-ai",
@@ -224,7 +224,7 @@ export const projects: Project[] = [
     categories: ["ai"],
     tags: ["AI", "Startup"],
     featured: true,
-    image: "/images/projects/proposal-ai.png",
+    image: "/Portfolio/images/projects/proposal-ai.png",
   },
   {
     slug: "orderbase",
@@ -240,7 +240,7 @@ export const projects: Project[] = [
     categories: ["saas", "web"],
     tags: ["SaaS", "Web", "Startup"],
     featured: true,
-    image: "/images/projects/orderbase.png",
+    image: "/Portfolio/images/projects/orderbase.png",
   },
   {
     slug: "anythinglk",
@@ -256,7 +256,7 @@ export const projects: Project[] = [
     categories: ["saas", "web"],
     tags: ["Web", "SaaS", "Startup"],
     featured: true,
-    image: "/images/projects/anythinglk.png",
+    image: "/Portfolio/images/projects/anythinglk.png",
   },
   {
     slug: "rideaware",
@@ -272,7 +272,7 @@ export const projects: Project[] = [
     categories: ["mobile"],
     tags: ["Mobile", "IoT", "University"],
     featured: true,
-    image: "/images/projects/rideaware.png",
+    image: "/Portfolio/images/projects/rideaware.png",
   },
   {
     slug: "buildnet",
@@ -301,7 +301,7 @@ export const projects: Project[] = [
     categories: ["web"],
     tags: ["Web"],
     featured: false,
-    image: "/images/projects/portfolio.png",
+    image: "/Portfolio/images/projects/portfolio.png",
   },
 ];
 

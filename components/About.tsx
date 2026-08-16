@@ -13,7 +13,7 @@ export default function About() {
           <Reveal>
             <div className="mx-auto w-full max-w-[260px] overflow-hidden rounded-2xl border border-ink-100 shadow-soft dark:border-ink-800 lg:mx-0">
               <Image
-                src="/images/maneesha.jpg"
+                src="/Portfolio/images/maneesha.jpg"
                 alt="Portrait of Maneesha Akash"
                 width={400}
                 height={500}

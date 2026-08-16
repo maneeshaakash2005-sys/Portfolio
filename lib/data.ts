@@ -13,7 +13,7 @@ export const personal = {
   linkedinLabel: "linkedin.com/in/maneesha-akash-0a906242a",
   github: "https://github.com/maneeshaakash2005-sys",
   githubLabel: "github.com/maneeshaakash2005-sys",
-  cvPath: "/Portfolio/public/Maneesha_Akash_Resume.pdf",
+  cvPath: "Maneesha_Akash_Resume.pdf",
   intro:
     "I'm an AI undergraduate passionate about building intelligent systems, SaaS products, and technology solutions that solve real-world problems. I enjoy turning ideas into real software.",
 };
